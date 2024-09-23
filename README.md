@@ -1,5 +1,5 @@
 # metadata-repo
-  GNU nano 6.2              /root/chainbase-avs-setup/holesky/metadata.json                        
+                       
 {
   "name": "erf",
   "website": "https://github.com/erfanjavand/metadata-repo",
